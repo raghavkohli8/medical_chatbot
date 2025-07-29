@@ -1,0 +1,5 @@
+ctransformers 0.2.27
+Sentence Transformers v5.0
+pinecone-client
+langchian==0.3.30
+flask
